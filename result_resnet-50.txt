@@ -1,0 +1,656 @@
+aquapapaya@52-0A70508-02:~/workshop_2021/0701_imagenet_tvm$ python3 deploy_resnet-50.py 
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+One or more operators have not been tuned. Please tune your model for better performance. Use DEBUG logging level to see more details.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+conv2d NHWC layout is not optimized for x86 with autotvm.
+/home/aquapapaya/.local/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:516: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+/home/aquapapaya/.local/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:517: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+/home/aquapapaya/.local/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:518: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+/home/aquapapaya/.local/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:519: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+/home/aquapapaya/.local/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:520: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+/home/aquapapaya/.local/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:525: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+
+
+/home/aquapapaya/workshop_2021/incubator-tvm/python/tvm/contrib/graph_runtime.py:26: UserWarning: This function has been moved to tvm.contrib.graph_executor and will be removed in the next TVM release
+  "This function has been moved to tvm.contrib.graph_executor and will be removed "
+img_name: 366.jpg
+Ground truth: orangutan (ID: 366)
+Inference time: 1.270815
+TVM's prediction: [366 999 327 340 339]
+Top-1: orangutan (ID: 366) 
+Top-2: ear (ID: 999) 
+Top-3: lycaenid (ID: 327) 
+Top-4: sorrel (ID: 340) 
+Top-5: guinea pig (ID: 339) 
+
+
+img_name: 567.jpg
+Ground truth: French horn (ID: 567)
+Inference time: 1.266544
+TVM's prediction: [861 567 577 910 618]
+Top-1: tobacco shop (ID: 861) 
+Top-2: French horn (ID: 567) 
+Top-3: gondola (ID: 577) 
+Top-4: wok (ID: 910) 
+Top-5: lab coat (ID: 618) 
+
+
+img_name: 505.jpg
+Ground truth: coffee mug (ID: 505)
+Inference time: 1.251375
+TVM's prediction: [505 412 550 725 999]
+Top-1: coffee mug (ID: 505) 
+Top-2: apron (ID: 412) 
+Top-3: envelope (ID: 550) 
+Top-4: pirate (ID: 725) 
+Top-5: ear (ID: 999) 
+
+
+img_name: 257.jpg
+Ground truth: Newfoundland (ID: 257)
+Inference time: 1.243404
+TVM's prediction: [257 222 258 260 244]
+Top-1: Newfoundland (ID: 257) 
+Top-2: Irish water spaniel (ID: 222) 
+Top-3: Great Pyrenees (ID: 258) 
+Top-4: Pomeranian (ID: 260) 
+Top-5: bull mastiff (ID: 244) 
+
+
+img_name: 236.jpg
+Ground truth: German shepherd (ID: 236)
+Inference time: 1.246235
+TVM's prediction: [209 208 234 236 227]
+Top-1: Labrador retriever (ID: 209) 
+Top-2: golden retriever (ID: 208) 
+Top-3: Bouvier des Flandres (ID: 234) 
+Top-4: German shepherd (ID: 236) 
+Top-5: briard (ID: 227) 
+
+
+img_name: 680.jpg
+Ground truth: necklace (ID: 680)
+Inference time: 1.254531
+TVM's prediction: [680 711 629 804 631]
+Top-1: necklace (ID: 680) 
+Top-2: pencil sharpener (ID: 711) 
+Top-3: liner (ID: 629) 
+Top-4: snowplow (ID: 804) 
+Top-5: Loafer (ID: 631) 
+
+
+img_name: 244.jpg
+Ground truth: bull mastiff (ID: 244)
+Inference time: 1.254293
+TVM's prediction: [244 256 200 334 329]
+Top-1: bull mastiff (ID: 244) 
+Top-2: Leonberg (ID: 256) 
+Top-3: Scotch terrier (ID: 200) 
+Top-4: hamster (ID: 334) 
+Top-5: sea urchin (ID: 329) 
+
+
+img_name: 406.jpg
+Ground truth: airship (ID: 406)
+Inference time: 1.253399
+TVM's prediction: [406 887 999 328 340]
+Top-1: airship (ID: 406) 
+Top-2: vending machine (ID: 887) 
+Top-3: ear (ID: 999) 
+Top-4: starfish (ID: 328) 
+Top-5: sorrel (ID: 340) 
+
+
+img_name: 813.jpg
+Ground truth: space shuttle (ID: 813)
+Inference time: 1.257881
+TVM's prediction: [813 891 923 868 960]
+Top-1: space shuttle (ID: 813) 
+Top-2: volleyball (ID: 891) 
+Top-3: menu (ID: 923) 
+Top-4: trailer truck (ID: 868) 
+Top-5: carbonara (ID: 960) 
+
+
+img_name: 884.jpg
+Ground truth: vase (ID: 884)
+Inference time: 1.268834
+TVM's prediction: [884 663 999 328 340]
+Top-1: vase (ID: 884) 
+Top-2: modem (ID: 663) 
+Top-3: ear (ID: 999) 
+Top-4: starfish (ID: 328) 
+Top-5: sorrel (ID: 340) 
+
+
+img_name: 631.jpg
+Ground truth: Loafer (ID: 631)
+Inference time: 1.254054
+TVM's prediction: [680 631 697 719 589]
+Top-1: necklace (ID: 680) 
+Top-2: Loafer (ID: 631) 
+Top-3: paintbrush (ID: 697) 
+Top-4: pier (ID: 719) 
+Top-5: hamper (ID: 589) 
+
+
+img_name: 909.jpg
+Ground truth: wing (ID: 909)
+Inference time: 1.260201
+TVM's prediction: [909 567 999 327 339]
+Top-1: wing (ID: 909) 
+Top-2: French horn (ID: 567) 
+Top-3: ear (ID: 999) 
+Top-4: lycaenid (ID: 327) 
+Top-5: guinea pig (ID: 339) 
+
+
+img_name: 270.jpg
+Ground truth: timber wolf (ID: 270)
+Inference time: 1.254309
+TVM's prediction: [270 269 489 279 258]
+Top-1: timber wolf (ID: 270) 
+Top-2: Mexican hairless (ID: 269) 
+Top-3: chain (ID: 489) 
+Top-4: kit fox (ID: 279) 
+Top-5: Great Pyrenees (ID: 258) 
+
+
+img_name: 207.jpg
+Ground truth: curly-coated retriever (ID: 207)
+Inference time: 1.257022
+TVM's prediction: [207 208 209 852 227]
+Top-1: curly-coated retriever (ID: 207) 
+Top-2: golden retriever (ID: 208) 
+Top-3: Labrador retriever (ID: 209) 
+Top-4: television (ID: 852) 
+Top-5: briard (ID: 227) 
+
+
+img_name: 228.jpg
+Ground truth: kelpie (ID: 228)
+Inference time: 1.252033
+TVM's prediction: [228 999 343 341 340]
+Top-1: kelpie (ID: 228) 
+Top-2: ear (ID: 999) 
+Top-3: wild boar (ID: 343) 
+Top-4: zebra (ID: 341) 
+Top-5: sorrel (ID: 340) 
+
+
+img_name: 185.jpg
+Ground truth: Irish terrier (ID: 185)
+Inference time: 1.264759
+TVM's prediction: [182 185 186 328 340]
+Top-1: Bedlington terrier (ID: 182) 
+Top-2: Irish terrier (ID: 185) 
+Top-3: Norfolk terrier (ID: 186) 
+Top-4: starfish (ID: 328) 
+Top-5: sorrel (ID: 340) 
+
+
+img_name: 345.jpg
+Ground truth: hippopotamus (ID: 345)
+Inference time: 1.249375
+TVM's prediction: [345 347 294 999 341]
+Top-1: hippopotamus (ID: 345) 
+Top-2: water buffalo (ID: 347) 
+Top-3: cheetah (ID: 294) 
+Top-4: ear (ID: 999) 
+Top-5: zebra (ID: 341) 
+
+
+img_name: 381.jpg
+Ground truth: titi (ID: 381)
+Inference time: 1.244914
+TVM's prediction: [381 379 369 384 380]
+Top-1: titi (ID: 381) 
+Top-2: capuchin (ID: 379) 
+Top-3: gibbon (ID: 369) 
+Top-4: Madagascar cat (ID: 384) 
+Top-5: howler monkey (ID: 380) 
+
+
+img_name: 232.jpg
+Ground truth: collie (ID: 232)
+Inference time: 1.241042
+TVM's prediction: [231 232 230 224 239]
+Top-1: Shetland sheepdog (ID: 231) 
+Top-2: collie (ID: 232) 
+Top-3: Old English sheepdog (ID: 230) 
+Top-4: schipperke (ID: 224) 
+Top-5: Greater Swiss Mountain dog (ID: 239) 
+
+
+img_name: 1.jpg
+Ground truth: tench (ID: 1)
+Inference time: 1.245698
+TVM's prediction: [  1 999 328 341 340]
+Top-1: tench (ID: 1) 
+Top-2: ear (ID: 999) 
+Top-3: starfish (ID: 328) 
+Top-4: zebra (ID: 341) 
+Top-5: sorrel (ID: 340) 
+
+
+img_name: 284.jpg
+Ground truth: Persian cat (ID: 284)
+Inference time: 1.252766
+TVM's prediction: [284 285 999 329 340]
+Top-1: Persian cat (ID: 284) 
+Top-2: Siamese cat (ID: 285) 
+Top-3: ear (ID: 999) 
+Top-4: sea urchin (ID: 329) 
+Top-5: sorrel (ID: 340) 
+
+
+img_name: 469.jpg
+Ground truth: cab (ID: 469)
+Inference time: 1.257163
+TVM's prediction: [469 756 427 544 333]
+Top-1: cab (ID: 469) 
+Top-2: radio telescope (ID: 756) 
+Top-3: barometer (ID: 427) 
+Top-4: dumbbell (ID: 544) 
+Top-5: Angora (ID: 333) 
+
+
+img_name: 848.jpg
+Ground truth: tank (ID: 848)
+Inference time: 1.285431
+TVM's prediction: [848 482 485 754 481]
+Top-1: tank (ID: 848) 
+Top-2: cassette (ID: 482) 
+Top-3: catamaran (ID: 485) 
+Top-4: radiator (ID: 754) 
+Top-5: cash machine (ID: 481) 
+
+
+img_name: 830.jpg
+Ground truth: streetcar (ID: 830)
+Inference time: 1.299141
+TVM's prediction: [579 881 583 786 603]
+Top-1: gown (ID: 579) 
+Top-2: unicycle (ID: 881) 
+Top-3: grocery store (ID: 583) 
+Top-4: seat belt (ID: 786) 
+Top-5: horizontal bar (ID: 603) 
+
+
+img_name: 340.JPG
+Ground truth: sorrel (ID: 340)
+Inference time: 1.259245
+TVM's prediction: [340 999 328 341 339]
+Top-1: sorrel (ID: 340) 
+Top-2: ear (ID: 999) 
+Top-3: starfish (ID: 328) 
+Top-4: zebra (ID: 341) 
+Top-5: guinea pig (ID: 339) 
+
+
+img_name: 331.jpg
+Ground truth: wood rabbit (ID: 331)
+Inference time: 1.256861
+TVM's prediction: [331 330 999 328 341]
+Top-1: wood rabbit (ID: 331) 
+Top-2: sea cucumber (ID: 330) 
+Top-3: ear (ID: 999) 
+Top-4: starfish (ID: 328) 
+Top-5: zebra (ID: 341) 
+
+
+img_name: 897.jpg
+Ground truth: washbasin (ID: 897)
+Inference time: 1.254706
+TVM's prediction: [897 999 328 340 339]
+Top-1: washbasin (ID: 897) 
+Top-2: ear (ID: 999) 
+Top-3: starfish (ID: 328) 
+Top-4: sorrel (ID: 340) 
+Top-5: guinea pig (ID: 339) 
+
+
+img_name: 382.jpg
+Ground truth: spider monkey (ID: 382)
+Inference time: 1.240524
+TVM's prediction: [382 380 381 370 371]
+Top-1: spider monkey (ID: 382) 
+Top-2: howler monkey (ID: 380) 
+Top-3: titi (ID: 381) 
+Top-4: siamang (ID: 370) 
+Top-5: guenon (ID: 371) 
+
+
+img_name: 563.jpg
+Ground truth: fountain (ID: 563)
+Inference time: 1.259565
+TVM's prediction: [563 418 767 341 339]
+Top-1: fountain (ID: 563) 
+Top-2: balloon (ID: 418) 
+Top-3: rotisserie (ID: 767) 
+Top-4: zebra (ID: 341) 
+Top-5: guinea pig (ID: 339) 
+
+
+img_name: 701.jpg
+Ground truth: paper towel (ID: 701)
+Inference time: 1.265550
+TVM's prediction: [701 326 339 338 337]
+Top-1: paper towel (ID: 701) 
+Top-2: sulphur butterfly (ID: 326) 
+Top-3: guinea pig (ID: 339) 
+Top-4: beaver (ID: 338) 
+Top-5: marmot (ID: 337) 
+
+
+img_name: 654.jpg
+Ground truth: milk can (ID: 654)
+Inference time: 1.256488
+TVM's prediction: [705 654 717 581 867]
+Top-1: parking meter (ID: 705) 
+Top-2: milk can (ID: 654) 
+Top-3: picket fence (ID: 717) 
+Top-4: greenhouse (ID: 581) 
+Top-5: tractor (ID: 867) 
+
+
+img_name: 296.jpg
+Ground truth: American black bear (ID: 296)
+Inference time: 1.264211
+TVM's prediction: [296 145 463 562 373]
+Top-1: American black bear (ID: 296) 
+Top-2: pelican (ID: 145) 
+Top-3: broom (ID: 463) 
+Top-4: forklift (ID: 562) 
+Top-5: baboon (ID: 373) 
+
+
+img_name: 720.jpg
+Ground truth: piggy bank (ID: 720)
+Inference time: 1.259242
+TVM's prediction: [804 441 720 737 438]
+Top-1: snowplow (ID: 804) 
+Top-2: beer bottle (ID: 441) 
+Top-3: piggy bank (ID: 720) 
+Top-4: pool table (ID: 737) 
+Top-5: beacon (ID: 438) 
+
+
+img_name: 354.jpg
+Ground truth: gazelle (ID: 354)
+Inference time: 1.250374
+TVM's prediction: [354   9 355 299 276]
+Top-1: gazelle (ID: 354) 
+Top-2: hen (ID: 9) 
+Top-3: Arabian camel (ID: 355) 
+Top-4: mongoose (ID: 299) 
+Top-5: African hunting dog (ID: 276) 
+
+
+img_name: 504.jpg
+Ground truth: cocktail shaker (ID: 504)
+Inference time: 1.265642
+TVM's prediction: [504 968 441 470 725]
+Top-1: cocktail shaker (ID: 504) 
+Top-2: espresso (ID: 968) 
+Top-3: beer bottle (ID: 441) 
+Top-4: caldron (ID: 470) 
+Top-5: pirate (ID: 725) 
+
+
+img_name: 218.png
+Ground truth: English springer (ID: 218)
+Inference time: 1.253644
+TVM's prediction: [218 215 156 219 212]
+Top-1: English springer (ID: 218) 
+Top-2: Gordon setter (ID: 215) 
+Top-3: Shih-Tzu (ID: 156) 
+Top-4: Welsh springer spaniel (ID: 219) 
+Top-5: vizsla (ID: 212) 
+
+
+img_name: 369.jpg
+Ground truth: gibbon (ID: 369)
+Inference time: 1.251351
+TVM's prediction: [369 379 368 295 381]
+Top-1: gibbon (ID: 369) 
+Top-2: capuchin (ID: 379) 
+Top-3: chimpanzee (ID: 368) 
+Top-4: brown bear (ID: 295) 
+Top-5: titi (ID: 381) 
+
+
+img_name: 852.jpg
+Ground truth: television (ID: 852)
+Inference time: 1.263759
+TVM's prediction: [852 999 328 340 339]
+Top-1: television (ID: 852) 
+Top-2: ear (ID: 999) 
+Top-3: starfish (ID: 328) 
+Top-4: sorrel (ID: 340) 
+Top-5: guinea pig (ID: 339) 
+
+
+img_name: 756.jpg
+Ground truth: radio telescope (ID: 756)
+Inference time: 1.269984
+TVM's prediction: [756 427 738 999 333]
+Top-1: radio telescope (ID: 756) 
+Top-2: barometer (ID: 427) 
+Top-3: pop bottle (ID: 738) 
+Top-4: ear (ID: 999) 
+Top-5: Angora (ID: 333) 
+
+
+img_name: 253.jpg
+Ground truth: affenpinscher (ID: 253)
+Inference time: 1.273865
+TVM's prediction: [253 179 162 180 158]
+Top-1: affenpinscher (ID: 253) 
+Top-2: Weimaraner (ID: 179) 
+Top-3: basset (ID: 162) 
+Top-4: Staffordshire bullterrier (ID: 180) 
+Top-5: papillon (ID: 158) 
+
+
+img_name: 521.jpg
+Ground truth: crib (ID: 521)
+Inference time: 1.312734
+TVM's prediction: [521 891 544 999 329]
+Top-1: crib (ID: 521) 
+Top-2: volleyball (ID: 891) 
+Top-3: dumbbell (ID: 544) 
+Top-4: ear (ID: 999) 
+Top-5: sea urchin (ID: 329) 
+
+
+img_name: 849.jpg
+Ground truth: tape player (ID: 849)
+Inference time: 1.245515
+TVM's prediction: [849 505 725 899 901]
+Top-1: tape player (ID: 849) 
+Top-2: coffee mug (ID: 505) 
+Top-3: pirate (ID: 725) 
+Top-4: water bottle (ID: 899) 
+Top-5: water tower (ID: 901) 
+
+
+img_name: 618.JPG
+Ground truth: lab coat (ID: 618)
+Inference time: 1.274636
+TVM's prediction: [928 813 618 567 891]
+Top-1: trifle (ID: 928) 
+Top-2: space shuttle (ID: 813) 
+Top-3: lab coat (ID: 618) 
+Top-4: French horn (ID: 567) 
+Top-5: volleyball (ID: 891) 
+
+
+img_name: 992.jpg
+Ground truth: coral fungus (ID: 992)
+Inference time: 1.240865
+TVM's prediction: [947 992 995 994 332]
+Top-1: cardoon (ID: 947) 
+Top-2: coral fungus (ID: 992) 
+Top-3: stinkhorn (ID: 995) 
+Top-4: gyromitra (ID: 994) 
+Top-5: hare (ID: 332) 
+
+
+img_name: 157.jpg
+Ground truth: Blenheim spaniel (ID: 157)
+Inference time: 1.244494
+TVM's prediction: [157 259 152 330 331]
+Top-1: Blenheim spaniel (ID: 157) 
+Top-2: Samoyed (ID: 259) 
+Top-3: Chihuahua (ID: 152) 
+Top-4: sea cucumber (ID: 330) 
+Top-5: wood rabbit (ID: 331) 
+
+
+img_name: 760.jpg
+Ground truth: reflex camera (ID: 760)
+Inference time: 1.247181
+TVM's prediction: [760 771 571 886 327]
+Top-1: reflex camera (ID: 760) 
+Top-2: running shoe (ID: 771) 
+Top-3: gasmask (ID: 571) 
+Top-4: velvet (ID: 886) 
+Top-5: lycaenid (ID: 327) 
+
+
+img_name: 343.jpg
+Ground truth: wild boar (ID: 343)
+Inference time: 1.241295
+TVM's prediction: [343 342 341 101 184]
+Top-1: wild boar (ID: 343) 
+Top-2: hog (ID: 342) 
+Top-3: zebra (ID: 341) 
+Top-4: black swan (ID: 101) 
+Top-5: Kerry blue terrier (ID: 184) 
+
+
+img_name: 338.jpg
+Ground truth: beaver (ID: 338)
+Inference time: 1.257231
+TVM's prediction: [336 298 106 335 331]
+Top-1: fox squirrel (ID: 336) 
+Top-2: sloth bear (ID: 298) 
+Top-3: koala (ID: 106) 
+Top-4: porcupine (ID: 335) 
+Top-5: wood rabbit (ID: 331) 
+
+
+img_name: 367.jpg
+Ground truth: gorilla (ID: 367)
+Inference time: 1.248521
+TVM's prediction: [367 224 372 379 365]
+Top-1: gorilla (ID: 367) 
+Top-2: schipperke (ID: 224) 
+Top-3: patas (ID: 372) 
+Top-4: capuchin (ID: 379) 
+Top-5: three-toed sloth (ID: 365) 
+
+
+img_name: 282.png
+Ground truth: tabby (ID: 282)
+Inference time: 1.258325
+TVM's prediction: [278 356 285 263 282]
+Top-1: red fox (ID: 278) 
+Top-2: llama (ID: 356) 
+Top-3: Siamese cat (ID: 285) 
+Top-4: Brabancon griffon (ID: 263) 
+Top-5: tabby (ID: 282) 
+
+Num of tested images: 50
+TVM Top-1 accuracy: 76.00%; Top-5 accuracy: 96.00%
+Model: ./resnet50_uint8_tf2.1_20200911_quant.tflite
